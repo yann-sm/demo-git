@@ -1,4 +1,4 @@
 # demo-git
 Bonjour, voici une demo de git
-
-Voici une ligne texte ajouté depuis github
+Voic une ligne de texte ajouté depuis github
+Ety celle-ci depuis ma machine local
